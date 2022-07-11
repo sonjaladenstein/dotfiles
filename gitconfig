@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sonja.ladenstein@gmx.at
+	name = sonja ladenstein
